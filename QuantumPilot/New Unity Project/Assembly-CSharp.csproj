@@ -80,7 +80,6 @@
     <Compile Include="Assets\Chapter1\Level1\Script\rollstar.cs" />
     <Compile Include="Assets\Chapter1\Level1\Script\rotatecircle.cs" />
     <Compile Include="Assets\Chapter1\Level1\Script\star.cs" />
-    <Compile Include="Assets\Chapter1\Scripts\lotus.cs" />
     <Compile Include="Assets\Chapter2\Level1\scripts\RewindControl2_1.cs" />
     <Compile Include="Assets\Chapter2\Level1\scripts\StackState.cs" />
     <Compile Include="Assets\Chapter2\Level1\scripts\crab.cs" />
@@ -139,15 +138,6 @@
     <Compile Include="Assets\Chapter2\Level3\Script\win.cs" />
     <Compile Include="Assets\Chapter2\basiccollection.cs" />
     <Compile Include="Assets\Chapter2\basicmovement.cs" />
-    <Compile Include="Assets\Import\MagicArsenal\Demo\Scripts\MagicButtonScript.cs" />
-    <Compile Include="Assets\Import\MagicArsenal\Demo\Scripts\MagicDragMouseOrbit.cs" />
-    <Compile Include="Assets\Import\MagicArsenal\Demo\Scripts\MagicFireProjectile.cs" />
-    <Compile Include="Assets\Import\MagicArsenal\Demo\Scripts\MagicLoadSceneOnClick.cs" />
-    <Compile Include="Assets\Import\MagicArsenal\Demo\Scripts\MagicLoopScript.cs" />
-    <Compile Include="Assets\Import\MagicArsenal\Demo\Scripts\MagicProjectileScript.cs" />
-    <Compile Include="Assets\Import\MagicArsenal\Effects\Scripts\MagicBeamScript.cs" />
-    <Compile Include="Assets\Import\MagicArsenal\Effects\Scripts\MagicLightFade.cs" />
-    <Compile Include="Assets\Import\MagicArsenal\Effects\Scripts\MagicRotation.cs" />
     <Compile Include="Assets\Introduction\Script\Initgame.cs" />
     <Compile Include="Assets\Introduction\Script\Introduce.cs" />
     <Compile Include="Assets\Introduction\Script\Introduce2.cs" />
@@ -158,16 +148,9 @@
     <Compile Include="Assets\Introduction\Script\level3.cs" />
     <Compile Include="Assets\Introduction\Script\level4.cs" />
     <Compile Include="Assets\Introduction\Script\levelmanage1r.cs" />
-    <Compile Include="Assets\Kiritsu Games\Underground Backgrounds\Demo\Scripts\BackTiles.cs" />
-    <Compile Include="Assets\Kiritsu Games\Underground Backgrounds\Demo\Scripts\CameraControl.cs" />
-    <Compile Include="Assets\Kiritsu Games\Underground Backgrounds\Demo\Scripts\RepeatLayer.cs" />
-    <Compile Include="Assets\Kiritsu Games\Underground Backgrounds\Demo\Scripts\ScrollingBlock.cs" />
-    <Compile Include="Assets\Kiritsu Games\Underground Backgrounds\Demo\Scripts\ScrollingLayer.cs" />
-    <Compile Include="Assets\Kiritsu Games\Underground Backgrounds\Demo\Scripts\ScrollingLayerGroup.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scenemanager.cs" />
     <None Include="Assets\Foriero Store\Projects\Backgrounds\backgrounds_vol_2\sprites\iceberg@2x\import_unity.xml" />
-    <None Include="Assets\Import\MagicArsenal\MagicArsenal - ReadMe.txt" />
     <None Include="Assets\Foriero Store\Projects\Backgrounds\backgrounds_vol_2\sprites\iceberg@2x\import_spine.txt" />
     <None Include="Assets\Foriero Store\Projects\Backgrounds\backgrounds_vol_2\sprites\iceberg@2x\log.txt" />
     <None Include="Assets\Foriero Store\Projects\Backgrounds\backgrounds_vol_2\sprites\iceberg@4x\log.txt" />
@@ -706,85 +689,85 @@
       <HintPath>D:/2019.4.0f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Path.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Triangle.Runtime">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="PsdPlugin">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Psdimporter.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.001">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Runtime">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Editor">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.001">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Graduation/New Unity Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Graduation/QuantumPilot/New Unity Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
