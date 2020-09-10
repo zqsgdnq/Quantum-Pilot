@@ -1,0 +1,1796 @@
+fileFormatVersion: 2
+guid: 8b12415331d9cbd499b37a35831e4335
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1454164209057906437
+    second: IceLevel_0
+  - first:
+      213: -6864740375334365708
+    second: IceLevel_1
+  - first:
+      213: 2597054210322158797
+    second: IceLevel_2
+  - first:
+      213: 1383488085367024138
+    second: IceLevel_3
+  - first:
+      213: -7408788085511922358
+    second: IceLevel_4
+  - first:
+      213: -1541886752618227407
+    second: IceLevel_5
+  - first:
+      213: -1732986712750502596
+    second: IceLevel_6
+  - first:
+      213: 7100230844189320802
+    second: IceLevel_7
+  - first:
+      213: 2631549530453296867
+    second: IceLevel_8
+  - first:
+      213: 7543766446684722803
+    second: IceLevel_9
+  - first:
+      213: 3657551307341859827
+    second: IceLevel_10
+  - first:
+      213: -2907533719800682478
+    second: IceLevel_11
+  - first:
+      213: 993786630243902882
+    second: IceLevel_12
+  - first:
+      213: -7991521725184410039
+    second: IceLevel_13
+  - first:
+      213: -4955851121115524287
+    second: IceLevel_14
+  - first:
+      213: -1818209380854348595
+    second: IceLevel_15
+  - first:
+      213: 3566537679412640589
+    second: IceLevel_16
+  - first:
+      213: 5142759934111771589
+    second: IceLevel_17
+  - first:
+      213: -2478924480611526393
+    second: IceLevel_18
+  - first:
+      213: 3056588561482234034
+    second: IceLevel_19
+  - first:
+      213: -1207367840002799750
+    second: IceLevel_20
+  - first:
+      213: -4128797207954342193
+    second: IceLevel_21
+  - first:
+      213: 5844265741245806503
+    second: IceLevel_22
+  - first:
+      213: -5295926046740121166
+    second: IceLevel_23
+  - first:
+      213: -5623510391407595745
+    second: IceLevel_24
+  - first:
+      213: -1904286686115486288
+    second: IceLevel_25
+  - first:
+      213: -9139946001375680276
+    second: IceLevel_26
+  - first:
+      213: -616896171962835523
+    second: IceLevel_27
+  - first:
+      213: 3687032982875692283
+    second: IceLevel_28
+  - first:
+      213: -6878236994664454548
+    second: IceLevel_29
+  - first:
+      213: -8961614255693987500
+    second: IceLevel_30
+  - first:
+      213: 3702814753300130679
+    second: IceLevel_31
+  - first:
+      213: 537665271094536804
+    second: IceLevel_32
+  - first:
+      213: -568664035709195537
+    second: IceLevel_33
+  - first:
+      213: 4665791016567676866
+    second: IceLevel_34
+  - first:
+      213: -3823323990667990790
+    second: IceLevel_35
+  - first:
+      213: -8684529188697973246
+    second: IceLevel_36
+  - first:
+      213: -5597805417616300180
+    second: IceLevel_37
+  - first:
+      213: -7520914446278876752
+    second: IceLevel_38
+  - first:
+      213: -4736842819563040675
+    second: IceLevel_39
+  - first:
+      213: 8443623386569430334
+    second: IceLevel_40
+  - first:
+      213: 3953157367111031904
+    second: IceLevel_41
+  - first:
+      213: -2966727957219849529
+    second: IceLevel_42
+  - first:
+      213: -829629498625144003
+    second: IceLevel_43
+  - first:
+      213: -786035352020665784
+    second: IceLevel_44
+  - first:
+      213: 4187146082254952090
+    second: IceLevel_45
+  - first:
+      213: 8458272924017752751
+    second: IceLevel_46
+  - first:
+      213: -1740400735372532206
+    second: IceLevel_47
+  - first:
+      213: 948352136947088747
+    second: IceLevel_48
+  - first:
+      213: 1863630955171026379
+    second: IceLevel_49
+  - first:
+      213: 1144780637148973305
+    second: IceLevel_50
+  - first:
+      213: -6561888367366947562
+    second: IceLevel_51
+  - first:
+      213: 1709402198450221617
+    second: IceLevel_52
+  - first:
+      213: 4000536800204694811
+    second: IceLevel_53
+  - first:
+      213: -1946508005867751989
+    second: IceLevel_54
+  - first:
+      213: 2724759412040853921
+    second: IceLevel_55
+  - first:
+      213: 8655454396139444661
+    second: IceLevel_56
+  - first:
+      213: 5491718223888192396
+    second: IceLevel_57
+  - first:
+      213: -2535942308442861274
+    second: IceLevel_58
+  - first:
+      213: 634203882839287273
+    second: IceLevel_59
+  - first:
+      213: -4536281046060321654
+    second: IceLevel_60
+  - first:
+      213: -5390065656764320090
+    second: IceLevel_61
+  - first:
+      213: -3797374752701335413
+    second: IceLevel_62
+  - first:
+      213: 1628654474961265284
+    second: IceLevel_63
+  - first:
+      213: -6061894649463487764
+    second: IceLevel_64
+  - first:
+      213: -5904119044563458509
+    second: IceLevel_65
+  - first:
+      213: -5226183021320837004
+    second: IceLevel_66
+  - first:
+      213: 394951648621526785
+    second: IceLevel_67
+  - first:
+      213: -4819093077516429180
+    second: IceLevel_68
+  - first:
+      213: -4916101430792154702
+    second: IceLevel_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceLevel_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1121
+        width: 233
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fbbf5c4aa3e2410800000000000000
+      internalID: 1454164209057906437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1110
+        width: 303
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d9e4effa8bb0a0800000000000000
+      internalID: -6864740375334365708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1383
+        width: 293
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc45fa46b079a0420800000000000000
+      internalID: 2597054210322158797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_3
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1428
+        width: 277
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a69476513233310800000000000000
+      internalID: 1383488085367024138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_4
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1469
+        width: 124
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d5aea5d72be2990800000000000000
+      internalID: -7408788085511922358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_5
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1469
+        width: 125
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1395f42fa2e1a9ae0800000000000000
+      internalID: -1541886752618227407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_6
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1396
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dc80a34c133f7e0800000000000000
+      internalID: -1732986712750502596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_7
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1309
+        width: 80
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2662d2b8556198260800000000000000
+      internalID: 7100230844189320802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_8
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1308
+        width: 80
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6c38bfa54258420800000000000000
+      internalID: 2631549530453296867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1280
+        width: 211
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376572b5d97d0b860800000000000000
+      internalID: 7543766446684722803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_10
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1284
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb80e5198b32c230800000000000000
+      internalID: 3657551307341859827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1280
+        width: 284
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2186fc29c7d56a7d0800000000000000
+      internalID: -2907533719800682478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_12
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1319
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a56836cca3aacd00800000000000000
+      internalID: 993786630243902882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1095
+        width: 72
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef093f459681190800000000000000
+      internalID: -7991521725184410039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_14
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1273
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143103e99a7493bb0800000000000000
+      internalID: -4955851121115524287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_15
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1222
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4c4ee833c64c6e0800000000000000
+      internalID: -1818209380854348595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_16
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1185
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bbf638f13ee7130800000000000000
+      internalID: 3566537679412640589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1192
+        width: 171
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe7dd99e0ce5740800000000000000
+      internalID: 5142759934111771589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_18
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1100
+        width: 267
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709512c9157199dd0800000000000000
+      internalID: -2478924480611526393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_19
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1111
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8bba72a1f2b6a20800000000000000
+      internalID: 3056588561482234034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_20
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1191
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77076fa8519e3fe0800000000000000
+      internalID: -1207367840002799750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_21
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1095
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb14e80d093b6c0800000000000000
+      internalID: -4128797207954342193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_22
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1121
+        width: 212
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7f0f73ab00b1150800000000000000
+      internalID: 5844265741245806503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_23
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9f05bc1571186b0800000000000000
+      internalID: -5295926046740121166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_24
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1143
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fae69f71745f1b0800000000000000
+      internalID: -5623510391407595745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_25
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1122
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5a49b295d9295e0800000000000000
+      internalID: -1904286686115486288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1046
+        width: 199
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce820c98983682180800000000000000
+      internalID: -9139946001375680276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_27
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 894
+        width: 207
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd5bd633385077f0800000000000000
+      internalID: -616896171962835523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_28
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 856
+        width: 105
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc547396f8fa2330800000000000000
+      internalID: 3687032982875692283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_29
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 851
+        width: 247
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66231455e79b80a0800000000000000
+      internalID: -6878236994664454548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_30
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1003
+        width: 131
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451884ba053f1a380800000000000000
+      internalID: -8961614255693987500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 856
+        width: 243
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba787566a036330800000000000000
+      internalID: 3702814753300130679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 860
+        width: 103
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a67a327bb267700800000000000000
+      internalID: 537665271094536804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_33
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 855
+        width: 239
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea630b8213bb18f0800000000000000
+      internalID: -568664035709195537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_34
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 906
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf99ba853830c040800000000000000
+      internalID: 4665791016567676866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 694
+        width: 246
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8610b5613d0fac0800000000000000
+      internalID: -3823323990667990790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_36
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 692
+        width: 279
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e552a27ba5a7780800000000000000
+      internalID: -8684529188697973246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_37
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 639
+        width: 115
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67293191a99052b0800000000000000
+      internalID: -5597805417616300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_38
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 715
+        width: 136
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a17b982850a790800000000000000
+      internalID: -7520914446278876752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_39
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 811
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d51f6d8a534eb0800000000000000
+      internalID: -4736842819563040675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_40
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 811
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d6addbb6cd2570800000000000000
+      internalID: 8443623386569430334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_41
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 693
+        width: 180
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c1fdf3eaf6cd630800000000000000
+      internalID: 3953157367111031904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_42
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 692
+        width: 127
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cac0bc24a014d6d0800000000000000
+      internalID: -2966727957219849529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_43
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 722
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b4347dd509c74f0800000000000000
+      internalID: -829629498625144003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_44
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 722
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ab8ed03017715f0800000000000000
+      internalID: -786035352020665784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_45
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 718
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9699776d2bbb1a30800000000000000
+      internalID: 4187146082254952090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_46
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 718
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf1691962d16570800000000000000
+      internalID: 8458272924017752751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 581
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216aa4190cad8d7e0800000000000000
+      internalID: -1740400735372532206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_48
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 581
+        width: 131
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6db6b47e39392d00800000000000000
+      internalID: 948352136947088747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 489
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc51463da72fcd910800000000000000
+      internalID: 1863630955171026379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_50
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 485
+        width: 522
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f882079ce313ef00800000000000000
+      internalID: 1144780637148973305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_51
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 617
+        width: 403
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d3357db4d7fe4a0800000000000000
+      internalID: -6561888367366947562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 17
+        width: 399
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132b5e02e3409b710800000000000000
+      internalID: 1709402198450221617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_53
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 477
+        width: 131
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1524172603c48730800000000000000
+      internalID: 4000536800204694811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_54
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 333
+        width: 87
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc57ccd184d9cf4e0800000000000000
+      internalID: -1946508005867751989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_55
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 7
+        width: 153
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9e815bf3a40d520800000000000000
+      internalID: 2724759412040853921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_56
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 417
+        width: 100
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b91c7b2ae95e1870800000000000000
+      internalID: 8655454396139444661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_57
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 379
+        width: 137
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c831565d0a0863c40800000000000000
+      internalID: 5491718223888192396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_58
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 168
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621116e08e58eccd0800000000000000
+      internalID: -2535942308442861274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 385
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e52fcf32152dc800800000000000000
+      internalID: 634203882839287273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_60
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 312
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84bc304c64eb01c0800000000000000
+      internalID: -4536281046060321654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_61
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 262
+        width: 62
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6b78cc7d3a235b0800000000000000
+      internalID: -5390065656764320090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_62
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 232
+        width: 134
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88333228c30d4bc0800000000000000
+      internalID: -3797374752701335413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_63
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 38
+        width: 89
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482aae1bd942a9610800000000000000
+      internalID: 1628654474961265284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_64
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 31
+        width: 54
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce243e00fe2dfdba0800000000000000
+      internalID: -6061894649463487764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_65
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 173
+        width: 25
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3362d25a20b501ea0800000000000000
+      internalID: -5904119044563458509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_66
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 280
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4786efa4b3ed877b0800000000000000
+      internalID: -5226183021320837004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 231
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f7a8f8e662b7500800000000000000
+      internalID: 394951648621526785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_68
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2
+        width: 122
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d61fe0642f1db0800000000000000
+      internalID: -4819093077516429180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceLevel_69
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3
+        width: 436
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b118d99bcf76cbb0800000000000000
+      internalID: -4916101430792154702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

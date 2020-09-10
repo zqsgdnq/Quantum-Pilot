@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31acb4ca9705dec46b4b759a9b0e278a, type: 3}
+  m_Name: tap
+  m_EditorClassIdentifier: 
+  ToolName: tap
+  ToolImage: {fileID: 21300000, guid: f9d9baa1518eb93488770dc6c7561327, type: 3}
